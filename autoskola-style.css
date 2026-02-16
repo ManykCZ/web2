@@ -652,6 +652,10 @@ body {
 }
 
 @media (max-width: 480px) {
+    .vehicle-image {
+        height: 50px;
+    }
+
     .navbar-container {
         padding: 0 1rem;
     }
